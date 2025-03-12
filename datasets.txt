@@ -1,0 +1,7 @@
+https://archive.ics.uci.edu/dataset/45/heart+disease
+https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
+https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data
+
+1.Klasyfikacja binarna
+2.Klasyfikacja wieloklasowa
+3.Regresja
